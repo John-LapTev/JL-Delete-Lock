@@ -1,0 +1,3 @@
+PyQt5==5.15.9
+pyinstaller==5.13.0
+keyboard==0.13.5

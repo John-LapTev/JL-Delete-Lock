@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+output/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Local development settings
+.env
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Build files
+*.spec
+!custom_build.spec
+*.manifest
+*.exe
+!resources/*.exe
+
+# Temporary files
+*.bak
+*.swp
+*.tmp
+*~
+
+# User-specific files
+emergency_log.txt
+critical_crash.txt
+fatal_crash.txt
+qt_crash.txt
